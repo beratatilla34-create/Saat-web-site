@@ -1,0 +1,6 @@
+{
+  "name": "Aethelgard Haute Horlogerie",
+  "description": "Ultra lüks İsviçre saatçilik sanatı, 3D interaktif tourbillon mekanizması ve özel üretim saat koleksiyonu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
